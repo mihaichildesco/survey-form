@@ -1,0 +1,21 @@
+body {
+    background-color: #A9D7D1;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.2rem;
+}
+
+form {
+    background-color: antiquewhite;
+}
+
+p {
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 1.8rem;
+}
